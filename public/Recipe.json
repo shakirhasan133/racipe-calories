@@ -1,0 +1,95 @@
+[
+  {
+    "recipe_image": "https://i.ibb.co/SmxhCRc/0ab5ba6e-759f-4e69-b727-252abca32e00.webp",
+    "recipe_id": "101",
+    "recipe_name": "Grilled Chicken Salad",
+    "short_description": "A healthy grilled chicken salad with fresh veggies.",
+    "ingredients": [
+      "200 g chicken breast",
+      "50 g lettuce",
+      "100 g cherry tomatoes",
+      "50 g cucumber",
+      "30 ml olive oil",
+      "10 g lemon juice"
+    ],
+    "preparing_time": 20,
+    "calories": 250
+  },
+  {
+    "recipe_image": "https://i.ibb.co/GpMGbHt/DALL-E-2024-10-24-01-03-53-A-serving-of-creamy-Alfredo-pasta-on-a-white-ceramic-plate-covered-with-a.webp",
+    "recipe_id": "102",
+    "recipe_name": "Pasta Alfredo",
+    "short_description": "Creamy Alfredo pasta with parmesan cheese.",
+    "ingredients": [
+      "200 g pasta",
+      "100 g parmesan cheese",
+      "100 ml cream",
+      "50 g butter",
+      "2 cloves garlic"
+    ],
+    "preparing_time": 30,
+    "calories": 400
+  },
+  {
+    "recipe_image": "https://i.ibb.co/F4bJbbQ/vibrant-veg.webp",
+    "recipe_id": "103",
+    "recipe_name": "Vegetable Stir Fry",
+    "short_description": "A mix of fresh vegetables stir-fried in soy sauce.",
+    "ingredients": [
+      "100 g broccoli",
+      "50 g bell peppers",
+      "50 g carrots",
+      "50 ml soy sauce",
+      "20 g ginger",
+      "10 g sesame seeds"
+    ],
+    "preparing_time": 15,
+    "calories": 150
+  },
+  {
+    "recipe_image": "https://i.ibb.co/Svn3FvR/Sheet-Pan-Ranch-Tofu-Vegetables-Vegan-From-My-Bowl-9.webp",
+    "recipe_id": "104",
+    "recipe_name": "Spicy Tofu Wrap",
+    "short_description": "A spicy tofu wrap with fresh herbs and vegetables.",
+    "ingredients": [
+      "100 g tofu",
+      "50 g spinach",
+      "30 g cilantro",
+      "2 wraps",
+      "10 g chili powder",
+      "20 ml lime juice"
+    ],
+    "preparing_time": 25,
+    "calories": 280
+  },
+  {
+    "recipe_image": "https://i.ibb.co/sjQJMtm/veg-tost.jpg",
+    "recipe_id": "105",
+    "recipe_name": "Avocado Toast",
+    "short_description": "Classic avocado toast with seasoning and herbs.",
+    "ingredients": [
+      "1 avocado",
+      "2 slices bread",
+      "10 ml olive oil",
+      "5 g salt",
+      "5 g black pepper"
+    ],
+    "preparing_time": 10,
+    "calories": 200
+  },
+  {
+    "recipe_image": "https://example.com/recipe6.jpg",
+    "recipe_id": "106",
+    "recipe_name": "Mango Smoothie",
+    "short_description": "A refreshing mango smoothie with yogurt.",
+    "ingredients": [
+      "1 mango",
+      "200 ml yogurt",
+      "50 ml honey",
+      "10 ml lemon juice",
+      "100 ml water"
+    ],
+    "preparing_time": 5,
+    "calories": 180
+  }
+]
